@@ -6,7 +6,7 @@ Java project
 - [x] Izveidot GitHub kontu
 - [x] Izveidot GitHub krātuvi
 - [x] Lokalo projektu izvietot GitHub
-- [ ] Papildinatu GitHub saturu ieput lokalo letosanai
+- [x] Papildinatu GitHub saturu ieput lokalo letosanai
 - [ ] Projektam piesledzies vēl viens programmētajs un izmeģināt kopdarbosanu
-- [ ] Projekta ieviests jauns zars
+- [x] Projekta ieviests jauns zars
 - [ ] Sapludinati zari, novests merge konflikts
