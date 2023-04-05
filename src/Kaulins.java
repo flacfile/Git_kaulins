@@ -16,7 +16,9 @@ public class Kaulins {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Cik reizes mest kauliņu?");
 		reizes = scan.nextInt();
+		do {
 		mestKaulinu(reizes);
+		}while(reizes<1);
 		scan.close();
 	}
 }
